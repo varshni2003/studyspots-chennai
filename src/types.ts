@@ -1,0 +1,2 @@
+export type Place={id:number;name:string;slug:string;type:'Café'|'Library'|'Coworking space';area:string;address:string;priceRange:string;priceNote:string;wifiQuality:string;powerSockets:string;noiseLevel:string;timeLimit:string;openingHours:string;bestFor:string[];amenities:string[];photos:string[];description:string;notes:string;phone:string;mapsLink:string;lastChecked:string;featured:boolean;distanceKm:number;sources:{label:string;url:string}[]};
+export type Category={slug:string;title:string;desc:string;intro:string;match:{type?:string;plugs?:string;price?:string[]}};

@@ -1,0 +1,51 @@
+[
+ {
+  "slug": "study-cafes-in-chennai",
+  "title": "Study cafés in Chennai",
+  "desc": "Cafés in Chennai reported as laptop and work friendly.",
+  "intro": "These cafés are reported by local guides as comfortable places to open a laptop. Confirm hours and seating on Google Maps before you go.",
+  "match": {
+   "type": "Café"
+  }
+ },
+ {
+  "slug": "cafes-with-power-sockets-in-chennai",
+  "title": "Cafés with power sockets in Chennai",
+  "desc": "Chennai cafés reported to have plenty of power outlets.",
+  "intro": "Plugs matter on a long study day. These cafés are reported to have plenty of outlets.",
+  "match": {
+   "type": "Café",
+   "plugs": "Reported many"
+  }
+ },
+ {
+  "slug": "libraries-to-study-in-chennai",
+  "title": "Libraries to study in Chennai",
+  "desc": "Free public libraries in Chennai where students study.",
+  "intro": "Free public libraries where students and aspirants study every day. Timings differ between sources, so check before travelling.",
+  "match": {
+   "type": "Library"
+  }
+ },
+ {
+  "slug": "coworking-day-passes-in-chennai",
+  "title": "Coworking day passes in Chennai",
+  "desc": "Pay-per-day coworking desks in Chennai for laptop work and calls.",
+  "intro": "Pay-per-day desks for focused laptop work and calls. Prices are reported and change often.",
+  "match": {
+   "type": "Coworking space"
+  }
+ },
+ {
+  "slug": "budget-study-spaces-in-chennai",
+  "title": "Budget study spaces in Chennai",
+  "desc": "Free and low-cost places to study or work in Chennai.",
+  "intro": "Free or low-cost places to study or work.",
+  "match": {
+   "price": [
+    "Free",
+    "₹"
+   ]
+  }
+ }
+]

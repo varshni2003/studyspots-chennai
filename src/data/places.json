@@ -1,0 +1,421 @@
+[
+  {
+    "id": 1,
+    "name": "Ciclo Café",
+    "slug": "ciclo-cafe",
+    "type": "Café",
+    "area": "Kotturpuram",
+    "address": "32, 47, Gandhi Mandapam Rd, Chitra Nagar, Kotturpuram, Chennai 600085",
+    "priceRange": "₹₹",
+    "priceNote": "About ₹1,300 for two (reported)",
+    "wifiQuality": "Reported good",
+    "powerSockets": "Reported many",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "Unknown",
+    "bestFor": [
+      "Solo study",
+      "Laptop work"
+    ],
+    "amenities": [
+      "Coffee",
+      "Food",
+      "Power backup"
+    ],
+    "photos": [
+      "/images/ciclo-cafe.jpg"
+    ],
+    "description": "Bicycle-themed café reported to have plenty of seating, power outlets, power backup and dependable Wi-Fi.",
+    "notes": "Board games are available for breaks (per Slurrp).",
+    "phone": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ciclo%20Caf%C3%A9%2C%20Kotturpuram%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": true,
+    "distanceKm": 2.0,
+    "sources": [
+      {
+        "label": "Slurrp: cafés for writers in Chennai",
+        "url": "https://www.slurrp.com/article/10-best-cafes-for-writers-to-work-out-in-chennai-1682409539308"
+      },
+      {
+        "label": "Coworkingers: best work cafés in Chennai",
+        "url": "https://coworkingers.com/?p=28382"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Backyard Cafe",
+    "slug": "backyard-cafe",
+    "type": "Café",
+    "area": "Adyar",
+    "address": "Adyar, Chennai (see Google Maps for exact address)",
+    "priceRange": "Unknown",
+    "priceNote": "Not stated",
+    "wifiQuality": "Reported good",
+    "powerSockets": "Reported many",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "Unknown",
+    "bestFor": [
+      "Laptop work"
+    ],
+    "amenities": [
+      "Coffee"
+    ],
+    "photos": [],
+    "description": "Listed among Chennai cafés for productive work, with high-speed Wi-Fi and ample power outlets reported.",
+    "notes": "Confirm hours and seating on Google Maps.",
+    "phone": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Backyard%20Cafe%2C%20Adyar%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": false,
+    "distanceKm": 3.0,
+    "sources": [
+      {
+        "label": "Plum: best cafés in Chennai for work",
+        "url": "https://plumhq.com/blog/best-cafes-in-chennai-for-productive-work"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "The Board Room",
+    "slug": "the-board-room",
+    "type": "Café",
+    "area": "Mylapore",
+    "address": "Mylapore, Chennai (see Google Maps for exact address)",
+    "priceRange": "₹₹",
+    "priceNote": "About ₹800 for two (reported)",
+    "wifiQuality": "Unknown",
+    "powerSockets": "Unknown",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "Unknown",
+    "bestFor": [
+      "Laptop work"
+    ],
+    "amenities": [
+      "Coffee",
+      "Food"
+    ],
+    "photos": [],
+    "description": "Described as a reliable, laptop-friendly everyday workspace where others are working around you.",
+    "notes": "Confirm details on Google Maps.",
+    "phone": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Board%20Room%2C%20Mylapore%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": false,
+    "distanceKm": 3.5,
+    "sources": [
+      {
+        "label": "District: work-friendly cafés in Chennai",
+        "url": "https://www.district.in/blog/work-friendly-cafes-in-chennai"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Connemara Public Library",
+    "slug": "connemara-public-library",
+    "type": "Library",
+    "area": "Egmore",
+    "address": "Pantheon Rd, Egmore, Chennai 600008",
+    "priceRange": "Free",
+    "priceNote": "No entry fee",
+    "wifiQuality": "None reported",
+    "powerSockets": "Unknown",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "Mon-Sat 9:30 AM-7:30 PM, Sun 9:30 AM-6 PM (sources differ; some say 8 AM-8 PM)",
+    "bestFor": [
+      "Solo study"
+    ],
+    "amenities": [
+      "Washroom"
+    ],
+    "photos": [],
+    "description": "One of India’s oldest public libraries. Young people reportedly fill several floors to study here.",
+    "notes": "Opening hours differ between sources. Call or check Google Maps before going.",
+    "phone": "+91 44 2819 3751",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Connemara%20Public%20Library%2C%20Egmore%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": true,
+    "distanceKm": 5.5,
+    "sources": [
+      {
+        "label": "Housing.com: libraries in Chennai",
+        "url": "https://housing.com/news/libraries-in-chennai"
+      },
+      {
+        "label": "YoMetro: Connemara Public Library",
+        "url": "https://yometro.com/travel-guide/attraction-connemara-public-library-chennai"
+      },
+      {
+        "label": "inkl: The tale of two libraries",
+        "url": "https://inkl.com/news/the-tale-of-two-libraries"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Anna Centenary Library",
+    "slug": "anna-centenary-library",
+    "type": "Library",
+    "area": "Kotturpuram",
+    "address": "Gandhi Mandapam Rd, Kotturpuram, Chennai 600025",
+    "priceRange": "Free",
+    "priceNote": "No entry fee reported",
+    "wifiQuality": "None reported",
+    "powerSockets": "Unknown",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "Sources differ: about 8 AM-8 PM (some say 9 PM)",
+    "bestFor": [
+      "Solo study"
+    ],
+    "amenities": [
+      "AC"
+    ],
+    "photos": [],
+    "description": "A large, modern state library on 9 levels where many students and aspirants study on its floors.",
+    "notes": "Timings vary by source; confirm before travelling.",
+    "phone": "+91 44 2220 1011",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Anna%20Centenary%20Library%2C%20Kotturpuram%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": true,
+    "distanceKm": 2.2,
+    "sources": [
+      {
+        "label": "Housing.com: libraries in Chennai",
+        "url": "https://housing.com/news/libraries-in-chennai"
+      },
+      {
+        "label": "inkl: The tale of two libraries",
+        "url": "https://inkl.com/news/the-tale-of-two-libraries"
+      },
+      {
+        "label": "Karthi Travels: Anna Centenary Library",
+        "url": "https://karthitravels.com/destinations/chennai/anna-centenary-library"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Innov8 SKCL Techsquare",
+    "slug": "innov8-skcl-techsquare",
+    "type": "Coworking space",
+    "area": "Guindy",
+    "address": "SKCL Techsquare, Guindy, Chennai",
+    "priceRange": "₹₹",
+    "priceNote": "Day pass about ₹499 (reported)",
+    "wifiQuality": "Reported good",
+    "powerSockets": "Unknown",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "About 9 AM-7 PM (reported)",
+    "bestFor": [
+      "Laptop work",
+      "Calls"
+    ],
+    "amenities": [
+      "Coffee"
+    ],
+    "photos": [],
+    "description": "Coworking space with day-pass and flexi-desk options.",
+    "notes": "Prices change. Check the operator before booking.",
+    "phone": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Innov8%20SKCL%20Techsquare%2C%20Guindy%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": true,
+    "distanceKm": 6.0,
+    "sources": [
+      {
+        "label": "Innov8: Chennai coworking guide",
+        "url": "https://www.innov8.work/blog/?p=2176"
+      },
+      {
+        "label": "myHQ: coworking day passes",
+        "url": "https://myhq.in/chennai/flexi/coworking-space-in-porur"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "WeWork Olympia Cyberspace",
+    "slug": "wework-olympia-cyberspace",
+    "type": "Coworking space",
+    "area": "Guindy",
+    "address": "Olympia Cyberspace, Guindy, Chennai",
+    "priceRange": "₹₹₹",
+    "priceNote": "Day pass about ₹650-750 (reported)",
+    "wifiQuality": "Reported good",
+    "powerSockets": "Unknown",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "About 9 AM-8 PM (reported)",
+    "bestFor": [
+      "Laptop work",
+      "Calls",
+      "Group project"
+    ],
+    "amenities": [
+      "Coffee",
+      "Parking"
+    ],
+    "photos": [],
+    "description": "Large coworking centre listing high-speed internet, phone booths, meeting rooms and an on-site café.",
+    "notes": "Prices change. Check the operator before booking.",
+    "phone": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=WeWork%20Olympia%20Cyberspace%2C%20Guindy%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": false,
+    "distanceKm": 6.5,
+    "sources": [
+      {
+        "label": "myHQ: WeWork Olympia Cyberspace",
+        "url": "https://myhq.in/flexi/coworking-space/wework-olympia-cyberspace?cs=ccmr"
+      },
+      {
+        "label": "myHQ: coworking day passes",
+        "url": "https://myhq.in/chennai/flexi/coworking-space-in-porur"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Awfis TVH Belicia Towers",
+    "slug": "awfis-tvh-belicia-towers",
+    "type": "Coworking space",
+    "area": "Mylapore",
+    "address": "TVH Belicia Towers, #71/4, Mylapore, Chennai 600028",
+    "priceRange": "₹₹",
+    "priceNote": "Day pass from about ₹349 (reported)",
+    "wifiQuality": "Unknown",
+    "powerSockets": "Unknown",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "Unknown",
+    "bestFor": [
+      "Laptop work"
+    ],
+    "amenities": [],
+    "photos": [],
+    "description": "Coworking centre in Mylapore offering day passes.",
+    "notes": "Prices change. Check the operator before booking.",
+    "phone": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Awfis%20TVH%20Belicia%20Towers%2C%20Mylapore%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": false,
+    "distanceKm": 3.8,
+    "sources": [
+      {
+        "label": "CoworkingCafe: Awfis TVH Belicia Towers",
+        "url": "https://www.coworkingcafe.com/coworking-property/in/tn/chennai/tvh-belicia-towers/"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Awfis Rajkamal Pinnacle",
+    "slug": "awfis-rajkamal-pinnacle",
+    "type": "Coworking space",
+    "area": "Nungambakkam",
+    "address": "6th-10th Floor, 2 Nungambakkam High Rd, Chennai 600034",
+    "priceRange": "₹₹",
+    "priceNote": "Day pass available",
+    "wifiQuality": "Unknown",
+    "powerSockets": "Unknown",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "Unknown",
+    "bestFor": [
+      "Laptop work"
+    ],
+    "amenities": [],
+    "photos": [],
+    "description": "Awfis coworking centre on Nungambakkam High Road with day passes.",
+    "notes": "Check the operator for current pricing.",
+    "phone": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Awfis%20Rajkamal%20Pinnacle%2C%20Nungambakkam%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": false,
+    "distanceKm": 4.6,
+    "sources": [
+      {
+        "label": "LiquidSpace: Awfis Rajkamal Pinnacle",
+        "url": "https://liquidspace.com/in/tn/chennai/awfis-coworking-rajkamal-pinnacle/day-pass"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Awfis Arihant Technopolis",
+    "slug": "awfis-arihant-technopolis",
+    "type": "Coworking space",
+    "area": "OMR",
+    "address": "7th Floor, Arihant Technopolis, Rajiv Gandhi Salai, Kotivakkam, Chennai 600096",
+    "priceRange": "₹₹",
+    "priceNote": "Day pass from about ₹600 (reported)",
+    "wifiQuality": "Unknown",
+    "powerSockets": "Unknown",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "Unknown",
+    "bestFor": [
+      "Laptop work"
+    ],
+    "amenities": [],
+    "photos": [],
+    "description": "Coworking centre on OMR with day-pass desks.",
+    "notes": "Prices change. Check the operator before booking.",
+    "phone": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Awfis%20Arihant%20Technopolis%2C%20OMR%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": false,
+    "distanceKm": 12.0,
+    "sources": [
+      {
+        "label": "CoworkingCafe: Awfis Arihant Technopolis",
+        "url": "https://www.coworkingcafe.com/coworking-space/in/tamil-nadu/chennai/?Page=3"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "One Co.Work",
+    "slug": "one-co-work",
+    "type": "Coworking space",
+    "area": "Thousand Lights",
+    "address": "Thousand Lights, Chennai (see Google Maps for exact address)",
+    "priceRange": "₹",
+    "priceNote": "Day pass about ₹300-400 (reported)",
+    "wifiQuality": "Unknown",
+    "powerSockets": "Unknown",
+    "noiseLevel": "Unknown",
+    "timeLimit": "Unknown",
+    "openingHours": "About 9 AM-8 PM (reported)",
+    "bestFor": [
+      "Laptop work"
+    ],
+    "amenities": [],
+    "photos": [],
+    "description": "Budget-friendlier coworking option with day passes.",
+    "notes": "Prices change. Check the operator before booking.",
+    "phone": "",
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=One%20Co.Work%2C%20Thousand%20Lights%2C%20Chennai",
+    "lastChecked": "2026-11-13",
+    "featured": false,
+    "distanceKm": 4.0,
+    "sources": [
+      {
+        "label": "myHQ: coworking day passes",
+        "url": "https://myhq.in/chennai/flexi/coworking-space-in-porur"
+      },
+      {
+        "label": "myHQ: coworking day pass in T. Nagar",
+        "url": "https://myhq.in/chennai/flexi/coworking-space-in-t-nagar"
+      }
+    ]
+  }
+]
